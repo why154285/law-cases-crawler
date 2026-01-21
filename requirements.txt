@@ -1,0 +1,4 @@
+requests
+beautifulsoup4
+supabase-py>=2.38.4
+python-dotenv
